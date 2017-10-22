@@ -1,5 +1,5 @@
 import sys
-
+# Testing GitHub branch
 def scan():
 	testFile = open(sys.argv[1])
 	lines = testFile.readlines()
